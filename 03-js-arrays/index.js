@@ -47,3 +47,5 @@
 // .map()
 
 // Using map, return a new array with all pokemon character names lowercased.
+
+const sum = (num1, num2) => num1 + num2
